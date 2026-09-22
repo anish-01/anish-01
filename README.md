@@ -10,7 +10,8 @@ I build AI-powered applications with large language model APIs, alongside full-s
 - 🤖 **Robotics:** intelligent, AI-driven robotic and embedded systems
 
 ### 🔬 Research
-**Responsible AI Lab, UNT** (Sept. 2026 – Present)
+**Responsible AI Lab, UNT** · *Sept. 2026 – Present*
+
 Designing an NVIDIA-sponsored study on how sustained thermal load affects vision-language model inference on the **NVIDIA DGX Spark** (open-weight models, 2B–72B). Building a Python harness that syncs per-request latency (time-to-first-token, throughput) with 1 Hz GPU telemetry (temperature, clock, power, memory) for open-source release.
 
 ### 🚀 Featured Projects
@@ -29,4 +30,4 @@ Designing an NVIDIA-sponsored study on how sustained thermal load affects vision
 **Tools:** Linux · SSH · tmux · Shell scripting · Git/GitHub · VS Code
 
 ### 📫 Connect
-[LinkedIn](https://www.linkedin.com/in/anishjaiswal01/)
+[LinkedIn](https://www.linkedin.com/in/anishjaiswal01/) · 📧 [jslanish01@gmail.com](mailto:jslanish01@gmail.com)
